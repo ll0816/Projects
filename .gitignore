@@ -1,0 +1,11 @@
+deep-learning
+_pycache_
+.p
+.tar.gz
+.tar
+checkpoint
+cifar-10-batches-py
+.meta
+.index
+.data-00000-of-00001
+.pyc
