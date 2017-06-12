@@ -11,3 +11,5 @@
 **/*.pyc
 **/data
 **/*.zip
+**/.ipynb_checkpoints
+**/papers
