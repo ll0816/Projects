@@ -6,7 +6,7 @@ Data Science Projects
 -------------------------------
 * [Customer Churn Prediction in Telecommunication Industry](https://github.com/ll0816/Projects/tree/master/User%20Churn%20Prediction)
 
-* [Customer Churn Prediction in Telecommunication Industry](https://github.com/ll0816/Projects/tree/master/User%20Churn%20Prediction Spark Version)(https://github.com/ll0816/Projects/tree/master/Spark)
+* [Customer Churn Prediction in Telecommunication Industry Spark Version](https://github.com/ll0816/Projects/tree/master/Spark)
 
 * [Movie Tagging by Natural Language Processing and Unsupervised Learning Algorithm](https://github.com/ll0816/Projects/tree/master/NLP)
 
@@ -17,4 +17,4 @@ Deep Learning Project
 
 * [Building Convolutional Neural Network With Dropouts From Scratch For Image Classification](https://github.com/ll0816/Projects/tree/master/CovNet%20for%20Image%20Classification)
 
-* [TV Script Generation using RNN] (https://github.com/ll0816/Projects/tree/master/tv-script-generation)
+* [TV Script Generation using RNN](https://github.com/ll0816/Projects/tree/master/tv-script-generation)
